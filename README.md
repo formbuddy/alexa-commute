@@ -1,3 +1,3 @@
 # alexa-commute
 
-a [Sails](http://sailsjs.org) application
+Alexa skill that fetches commute data from Google Maps Distance Matrix API.
